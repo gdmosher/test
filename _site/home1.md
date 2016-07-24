@@ -4,7 +4,7 @@ audience: field engineers, clients
 type: first_page
 homepage: true
 sidebar: mydoc_sidebar
-permalink: /home/
+permalink: /_site/home1/
 folder: mydoc
 ---
 
